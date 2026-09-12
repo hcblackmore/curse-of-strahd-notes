@@ -1,0 +1,57 @@
+---
+publish: true
+created: 2026-09-05T18:10:52.431Z
+modified: 2026-09-12T14:01:43.659Z
+---
+
+- Fight Continues
+  - [[Bel]] blows up the ghouls with radiant light
+  - another beastie comes spewing red mist
+  - he spews mist everywhere and we are fucked
+  - We fuck it up
+- [[Raven]] arrives and wants us to follow it
+  - We follow the raven
+  - town has been decimated
+  - [[Ireena Kolyana]] is fighting one of the shambling zombies and exudes mist
+  - much like [[Bel's dream 1]]
+  - get misted againnnnnn
+  - we win!!!!
+  - [[Rothi]] explodes it
+- hoof steps
+  - guy on horse back
+  - flanked by zombies
+  - its the [[Rahadin|dusk skin elf]]!
+  - Mercy???
+  - congrats on your position and sorry for your loss
+- run to the burgermeister house
+  - [[kolyan|burgermeister]] is super dead
+  - [[ismark kolyanovich]] is not dead but has been fed on by a vampire
+  - Kolyan invited someone in the house but sounded like someone spoke through him
+  - Tall siluette dark, deep voice, red eyes, "we will meet again" - totally fucking [[Strahd von Zarovich]]
+- spy on the siblings
+  - ismarks going to leave the village
+  - after they burry dad
+- Rothi Dream
+  - meets with her patron, painting the halfling woman again
+  - Ismark wont be a vampire spawn
+  - Ismark is total going to be if Strahd keeps hunting him
+- [[Bels dream 2]]
+- talk about how to hid ismarks hair
+- come downstairs and talk to Ireena
+  - Ismark is a target for the devil and the villagers
+    - St. Andral’s Church is hollowed ground and protects those from vampires
+    - Quest: take [[Ismark to St. Andral’s Church]]
+  - Cant keep living like this
+    - hundreds of years ago
+    - Vampires stalking the world
+    - rats and bats and wolfs reporting every moves
+    - Quest: [[Discover how to destroy the devil]]
+    - Personal Quest: [[Talk to the Seer about dreams]]
+  - Bel drops spoon and notices a rat in the corner
+    - yells rat and trys to toll the dead on it
+    - the others try to attack
+    - Aeris skewers it with a fork
+  - Final Favor
+    - assist carrying the coffin to the church
+    - Quest: [[Carry the Burgermeister]]
+- [[Escher|ESCHER]] IS BLONDE

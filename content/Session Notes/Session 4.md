@@ -1,0 +1,139 @@
+---
+publish: true
+created: 2026-09-05T18:10:52.429Z
+modified: 2026-09-12T14:01:54.790Z
+---
+
+- Head to the Tavern with [[Ireena Kolyana]]
+  - head through a second gate
+  - See a statue that Bel saw in his [[Bel's dream 1|dream]]
+- Reach the Tavern
+  - She orders wine for the table from [[Arik]]
+  - she apologizes for the state of the village
+  - She has not heard of [[Durst Manor]]
+  - Talk to Ireena
+    - Why is there a wall around the forest
+      - Strahd's hoard (of undead) is trying to get in
+    - Village Name
+      - [[Barovia - Village]]
+    - Why 6 nights
+      - there was an [[attack on Ravenloft]] 3 months ago (wtf did you write after that Hannah)
+      - [[Doru]] is the son of the villages priest
+      - to free barovia from Strahd
+      - 3 months attacked the castle
+      - the revolt failed (BADLY)
+      - Strahd was AWOKE and has vowed vengence on this valley
+      - insight check
+        - sad about Doru
+      - enough support for a party to do this
+      - not many returned
+      - Doru died
+      - brough his best friend [[Escher]]
+    - Whos [[Strahd von Zarovich]]?
+      - very well known around Barovia (surrounded by deadly mists)
+      - Barovia is ruled by who is a vampire
+      - Strahd von Zarovich (refered to as the devil)
+    - Mists
+      - Any who enter the mists will find them shelves discombobulated and tired
+      - end up back where you started choser to death
+      - does not fully know how they work.
+        - all you know is cant leave
+        - occasionally people come in
+    - [[Drasha]]
+      - has not heard of drasha
+    - Lancelot!
+      - you have Lancelot!
+      - Belongs to Gerlat
+      - is ALIVE?!
+      - been a few days since Gerlant is seen
+    - [[Bildrath|Man]] slams his fist on the table
+      - He does not like Ireena
+      - seems to think she is bad luck
+      - hates her because she asked people to stay and defend their homes and now people are dead
+    - how did straud communicate what was happening
+      - a few days after the attack, a [[Rahadin|dusk skin elf]] came
+      - we have 90 day to come to terms with your gods Styrad has awoke and with punish the village for their disobedience
+      - some fled to [[Vallaki]]
+  - Talk to [[Bildrath]]
+    - the real story
+    - Sayter RACIST
+    - we wouldn't have to be fighting for her damn foolishness
+    - Real story
+      - 3 months the group left  to attack raven loft
+        - [[Donavich]]
+      - we've seen familiar faces in the undead
+        - a few came back undead
+      - 90 days to make peace
+      - most wanted to leave
+      - Ireena had a speech to protect people
+      - wanted to leave
+        - his sister, her husband and son were inspired to stay
+        - sister and husband died [[Periwimple]] lived
+        - Periwimple wants to stay and defend
+  - hes toooo racist and we go back to Ireena
+- Tavern door swings open
+  - [[Mary|woman]] walks in
+    - [[Gerolt]] has gone to valaki alone
+      - couple hours walk away
+      - Mary
+      - Gerolt is her son
+      - we promise to go find him
+      - gerlot betothed to Doru
+    - more fighting with racist mcgee
+- walk [[Mary]] home
+- head to the burgermeister home
+  - small mob outside
+  - woman at the front
+    - give him to us
+    - time to take matters into our own hands
+  - the [[kolyan|burgermeister]] (old and beat up) and a [[ismark kolyanovich|young man]] next to him
+  - Ireena goes to the front
+  - the woman looks at us
+  - wants to sacrifice to the Strahd
+  - strahd likes preying on blonde men
+  - old man
+    - you are a fool for thinking surrendering anyone will fix this
+    - found ismark as a child outside of ravenloft
+  - ireena introduces us
+  - we convince ireena to rest and go hang out with the guys
+  - what happened to blondes
+    - bad luck befalls them
+    - bel and ismark flirt????????????????????????
+  - rothi asks questions
+    - do they recogiznize the dead man?
+      - dalvin olesnki (one of the survivors)
+      - asked [[Vistani]] how to escape the mist
+      - they can pass through the mist due to their dealings with the devil
+      - long long history
+      - people are scared of them due to their connections with the devil
+  - humoring the man
+    - undead attack
+    - but not all at once
+    - they refer to lathander as the morning lord which is an "out dated" term
+    - writes a [[Kolyanas letter|letter]] and gives it to [[Aeris]]
+  - talk to ismark
+    - routine
+      - no sense of routine
+    - asks about our lives
+      - bel
+        - preist to lathander
+      - Rothi
+        - gnome village
+        - lovely
+        - small portion sizes
+        - keep to themeselves- not a fan of outsiders
+      - Aeris
+        - left family and home to try and answer unsolved questions about my family and their past
+        - hope to gain more expierience and become more prerspectice and aid in their growth
+    - asks about gerolt
+      - he hasnt seen him
+    - bildraft runs the fucking merkintile
+    - ismark found at 4 aroudn ravenloft
+    - ravenloft from barovia village is reasonable close (1.5)
+    - holy symbols dont have magic but might work
+  - rest time
+    - bel in ismarks bed ;)
+  - time to go guard
+    - us on east
+    - ireena on the north
+    - we fight some Zombies then the ghouls show up

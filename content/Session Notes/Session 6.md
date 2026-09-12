@@ -1,0 +1,82 @@
+---
+publish: true
+created: 2026-09-05T18:10:52.433Z
+modified: 2026-09-12T14:01:31.710Z
+---
+
+- Bring the body to the church
+  - [[Bel]] and [[Aeris]] almost drop it several times
+  - looks like the Church Bell saw in his [[Bels dream 2|dream]]
+  - [[Periwimple]] here!
+  - [[Donavich]] has locked himself in side and isn't wearing his holy symbol
+  - [[Doru]] only started talking about rebellion after [[Alanik]] arrived
+- Donavich looks like shit
+  - hasnt eaten
+  - hasnt slept
+  - havent bathed
+  - voice is horse (nat 20 lets go!)
+- destruction of the church was done by a Vampire spawn
+  - It was done by [[Doru]]!
+  - Returned on the first night
+  - HES DOWN STAIRS
+  - he gave Doru his holy symbol
+  - haven't spoken
+  - been unable to feel the morning lords presence
+  - still doesnt have the morning lord presence
+  - Request we kill Doru and get the holy symbol
+- Go downstairs
+  - FInd Doru in the rafters
+  - its sad
+  - he says if he cant control himself around blood we can kill him
+  - ask him questions
+    - how did you get back here
+      - bought the book from the [[Vistani]]
+      - scholar Alanick arrived staying in the bugermiester manor
+      - alanick was actual Rudolph van Richten
+      - insisted Rudolph help kill Strahd
+      - Escher helped form >24 people to help
+      - they stormed the castle and people died
+      - they made it to the crypt but it was empty!!!
+      - Strahd was mercilises. it was purely slaughter
+      - Unknown what happened to van Richten
+      - everyone else died except Escher and Doru (who became undead)
+      - Interogated and forced to consume blood of his bretheren
+      - has to obey any command given face to face directly from Strahd
+      - Doru was ordered to return to the Church 6 nights ago
+    - WHeres the book
+      - fuck knows
+    - Need to know info
+      - MUst obey Strahds comands
+      - Sun light and running water are both bad for both vampires and spawn
+      - a wooden stake through the heart will paralize a vampire while they sleep
+      - by day they rest in there coffin
+      - they can not enter a residence without invitation
+      - Strahd has a gaze that can Charm you if you look him in the eyes
+      - to become spawn (full exasuation and having to drink Strahds Blood)
+  - Blood time
+    - IT WORKS
+  - Emergency armory stash
+    - in the middle of the river there is an island with a cash in the tree trunk
+- Head back upstairs
+- let [[ismark kolyanovich]] have some time with Doru
+- Funeral time
+- if we cant go to [[St. Andral’s Church]] we can go to the [[Abbey of St. Markovia in Krezk]]
+- ismark gets us the pritriot
+- ismark then disapears to a hill
+  - unburries a box with stuff from his mother
+  - gives rothi a necklace
+- Time to go!
+- theres a scout in the bushes
+  - looking for the lanceton family
+- Strahds hereeeee
+  - Escher is the driver
+    - He looks good and well treated
+  - Strahd eyes us like meat
+    \- Teases Bel for his Elfness
+    \- at least hes not racist
+    \- asks about Meta
+  - bel talks shit and uhhhh ya that doesnt go well for him
+  - Rothi asks about Raven
+- Escher is a concort
+- maybe a little guilty
+- maybe Escher freed Strahd
