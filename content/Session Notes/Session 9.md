@@ -1,10 +1,71 @@
 ---
 publish: true
 created: 2026-09-12T13:07:58.718Z
-modified: 2026-09-12T13:56:28.382Z
+modified: 2026-09-12T16:14:30.611Z
 ---
 
 - wolf fight continues
 - bel inalates 3 wolves
-- the bel and Eris are shoved off the clif
+- the bel and [[Aeris]] are shoved off the clif
   - wilhelm scream
+  - fight finally finishes!
+- short rest ([[Bel]] not feeling very refreshed) (2 nat 1 hit dice)
+- bel gets a piggy back ride from [[Ismark Kolyanovich]]
+- [[Rothi]] is not like lucciola and can actually see shit!!! (aka: MORE BIGGER WOLVES)
+- arrive at a bridge cross over a waterfall([[Tser Falls]])
+  - skeletal figure in the middle of the bridge
+  - go to talk to it!
+  - asks if we are part of strahds posy
+    - He dont like [[Strahd von Zarovich|strahd]]
+  - He is a [[knight of the order of the silver dragon]]
+    - he wants us to go [[Argynvostholt]]
+    - find [[Sir Godfrey Gwilym]]
+    - he awaits those to want to raise there sword against the darkness
+  - he served Lord [[Argynvost]] (silver dragon)
+  - what is a revant?
+    - Formed from the soul of a mortal who suffered a terrible and undeserved fate
+    - he wants revenge of strahd (specifically)
+  - are they more?
+    - at argynvosthold, there is a ton of revants
+  - Sir Vladimir Horngaard is the commander of [[the order of the silver dragon]]
+    - dont talk to him
+    - talk to Godfrey
+  - why is the order against strah
+    - longgggg story
+  - why are you here?
+    - because he raised his voice against his commander and was banished
+    - when
+      - as a revanents
+    - what was this disagreement
+      - disagreed with an order
+      - order us to raise no weapon against strahd
+        - not because of fear
+    - Godfrey and Vladmir were close in life ( but not in death)
+    - Godfrey is not constricted by Vladmirs will
+      - because he (Vladmir) is the commander they will be destroyed if they disobey
+      - unknown why godfrey was not oathbound by the others
+    - Sent here with no ryhm or reason
+    - If something were to happen to Vladmir, Godfrey would take his place
+    - if a revenant is "killed" he would find another corpse to fill
+  - We teach sir revenant to play solitaire
+  - beware those in the forest of the west, who hunger for human flesh (Unknown if loyal to Strahd)
+- Find a slate with a carving of a raven over a 3 pointed star (fancy triangle)
+  - over grown
+  - [[Raven|Patatas]] is so cute on top
+  - probably an offering spot
+- come across a windmill
+  - [[Morgantha|Old woman]] is approaching from the other side of the road with a cart
+  - She lives there with her daughters (Ophalisa and Bella)
+  - she gives them all some pies (for free)
+    - Bel doesn't trust this for shit.
+  - the windmill is the one from the [[Durst Manor]]!
+  - OH NO IT WAS CURSED SHOCKERRRRRRRRRRRRRRRRRR
+  - Aeris collapses
+- Patatas goes to join other ravens
+  - they follow us for a little bit
+  - patas rejoins when they others leaves
+- approaching a lake
+  - [[Ismark Kolyanovich]] freezes
+  - he wants to go to the lake
+  - he sees the lake in his dreams
+  - he does know how to swim but [[Ireena Kolyana]] doesnt
