@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-05T18:10:52.433Z
-modified: 2026-09-12T14:01:31.710Z
+modified: 2026-09-12T15:59:43.070Z
 ---
 
 - Bring the body to the church
@@ -58,7 +58,7 @@ modified: 2026-09-12T14:01:31.710Z
   - Emergency armory stash
     - in the middle of the river there is an island with a cash in the tree trunk
 - Head back upstairs
-- let [[ismark kolyanovich]] have some time with Doru
+- let [[Ismark Kolyanovich]] have some time with Doru
 - Funeral time
 - if we cant go to [[St. Andral’s Church]] we can go to the [[Abbey of St. Markovia in Krezk]]
 - ismark gets us the pritriot

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-05T18:10:52.431Z
-modified: 2026-09-12T14:01:43.659Z
+modified: 2026-09-12T15:59:43.059Z
 ---
 
 - Fight Continues
@@ -25,7 +25,7 @@ modified: 2026-09-12T14:01:43.659Z
   - congrats on your position and sorry for your loss
 - run to the burgermeister house
   - [[kolyan|burgermeister]] is super dead
-  - [[ismark kolyanovich]] is not dead but has been fed on by a vampire
+  - [[Ismark Kolyanovich]] is not dead but has been fed on by a vampire
   - Kolyan invited someone in the house but sounded like someone spoke through him
   - Tall siluette dark, deep voice, red eyes, "we will meet again" - totally fucking [[Strahd von Zarovich]]
 - spy on the siblings

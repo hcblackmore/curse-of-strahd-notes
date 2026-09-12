@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-05T18:10:52.429Z
-modified: 2026-09-12T14:01:54.790Z
+modified: 2026-09-12T15:59:43.016Z
 ---
 
 - Head to the Tavern with [[Ireena Kolyana]]
@@ -86,7 +86,7 @@ modified: 2026-09-12T14:01:54.790Z
   - woman at the front
     - give him to us
     - time to take matters into our own hands
-  - the [[kolyan|burgermeister]] (old and beat up) and a [[ismark kolyanovich|young man]] next to him
+  - the [[kolyan|burgermeister]] (old and beat up) and a [[Ismark Kolyanovich|young man]] next to him
   - Ireena goes to the front
   - the woman looks at us
   - wants to sacrifice to the Strahd
