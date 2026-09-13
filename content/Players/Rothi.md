@@ -1,8 +1,7 @@
 ---
 publish: true
-draft: "true"
 created: 2026-09-05T18:10:52.410Z
-modified: 2026-09-05T13:11:16.150Z
+modified: 2026-09-13T12:00:43.762Z
 ---
 
 Rothi
